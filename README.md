@@ -2,7 +2,7 @@
 
 ![FClub Logo](https://ucarecdn.com/b3501875-1c4e-4e68-8641-493ccbdba71f/ChatGPTImage7202514_37_51fotorbgremover20250508235426.png)
 
-FClub is a comprehensive microservice-based solution designed for modern fitness club management. The system provides end-to-end automation of club operations including member management, access control, scheduling, and notifications through a distributed architecture that ensures scalability and reliability.
+FClub is a comprehensive microservice-based solution designed for modern fitness club management. The system provides end-to-end automation of club operations including member management, access control, and notifications through a distributed architecture that ensures scalability and reliability.
 
 ## System Architecture
 
