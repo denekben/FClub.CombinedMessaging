@@ -18,6 +18,7 @@ Each microservice adheres to **Clean Architecture** principles, enforcing a stri
 - **Shared Layer**: Hosts cross-cutting utilities and common contracts consumed by other layers.  
 
 Dependencies flow inward: outer layers (WebUI, Infrastructure) depend on inner layers (Application, Domain), while the **Domain layer remains isolated** from all external concerns. This ensures testability, flexibility, and maintainability by decoupling business rules from implementation details. 
+
 ![FClub Architecture Diagram Microservice](https://ucarecdn.com/e228e111-e652-4523-ade6-77d3a7ba0ba6/20250513174442.png)
 
 ## Core Components
