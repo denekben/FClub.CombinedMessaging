@@ -59,13 +59,6 @@ The system implements a robust **JWT-based authentication and authorization** me
 - Microservices enforce access based on:
   - User roles (e.g., `Admin`, `Manager`)
 
-#### Secure Service-to-Service Communication
-- Internal calls require **service JWTs** with:
-  - Dedicated signing keys
-- Prevents:
-  - Unauthorized service impersonation
-  - Privilege escalation
-
 ## Source Code Repositories
 
 | Repository | Purpose |
