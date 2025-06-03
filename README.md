@@ -67,8 +67,12 @@ The system implements a robust **JWT-based authentication and authorization** me
 | [FClub.Backend.CombinedMessaging](https://github.com/denekben/FClub.Backend.CombinedMessaging) | Micsrocesvices backend application |
 | [FClub.Backend.Common](https://github.com/denekben/FClub.Backend.Common) | Common microservice class library |
 | [FClub.Client.Management.CombinedMessaging](https://github.com/denekben/FClub.Client.Management.CombinedMessaging) | Admin dashboard frontend |
-| [Club.Client.Turnstile](https://github.com/denekben/FClub.Client.Turnstile) | Turnstile access control frontend |
+| [FClub.Client.Turnstile](https://github.com/denekben/FClub.Client.Turnstile) | Turnstile access control frontend |
 | [FClub.K8S.CombinedMessaging](https://github.com/denekben/FClub.K8S.CombinedMessaging) | Kubernetes deployment configurations |
+
+## Deployment Scheme
+
+[!Deployment](https://ucarecdn.com/a469c658-1e7e-4307-87c7-f13983ea160e/20250603125556.png)
 
 ## Deployment Commands
 
