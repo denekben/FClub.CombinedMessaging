@@ -72,7 +72,7 @@ The system implements a robust **JWT-based authentication and authorization** me
 
 ## Deployment Scheme
 
-[!Deployment](https://ucarecdn.com/a469c658-1e7e-4307-87c7-f13983ea160e/20250603125556.png)
+![Deployment](https://ucarecdn.com/a469c658-1e7e-4307-87c7-f13983ea160e/20250603125556.png)
 
 ## Deployment Commands
 
